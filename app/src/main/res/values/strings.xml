@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin2L1</string>
+    <string name="id">ID:</string>
+    <string name="count">Count:</string>
+    <string name="add">ADD</string>
+    <string name="name">Name:</string>
+</resources>
