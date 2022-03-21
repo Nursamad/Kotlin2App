@@ -11,6 +11,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Kotlin2L1">
         <activity
+            android:name=".presentation.add.AddActivity"
+            android:exported="false" />
+        <activity
             android:name=".presentation.main.MainActivity"
             android:exported="true">
             <intent-filter>
